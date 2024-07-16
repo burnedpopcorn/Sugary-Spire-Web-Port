@@ -27,4 +27,8 @@ There are Issues, such as:
 - After that, you have the compilied files ready for use in a server
 
 ## Thanks to
-- Tour de Pizza for the base game
+- Tour de Pizza for Pizza Tower, which is the Inspiration for this game
+- @zyledev, for the Sugary Spire Decomp that made this possible [here](https://github.com/zyledev/Sugary-Spire-Decompilation-Archive)
+> Just look through the Playtest 3.2 branch
+
+- and literally anyone who helped make Sugary Spire in the first place
