@@ -6,6 +6,8 @@ Demo Site: https://www.autistici.org/burnedprojects/sugaryspire/SugarySpire.html
 NEW! GX.GAMES Mirror: https://gx.games/games/o96f0y/sugary-spire-web-port/
 > WOW! I used GX.GAMES like I was supposed to! Insane!
 
+![image](https://github.com/burnedpopcorn/Sugary-Spire-Web-Port/blob/main/banner.jpg)
+
 ## Downloads
 Source Code and Compiled Web Build can be Downloaded From the Releases Tab
 
