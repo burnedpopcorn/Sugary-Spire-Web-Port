@@ -22,7 +22,7 @@ There are Issues, such as:
 
 ```C:\Users\ (YOUR USER) \AppData\Local\GameMakerStudio2\GMS2TEMP```
 
-    - In where you will find folders called `SugarySpire_( SOME NUMBERS )_VM (or _YYC if you chose that option)`
+    - In where you will find folders called `SugarySpire_( SOME NUMBERS )_VM` (or _YYC if you chose that option)
     - Steal the `/runner` sub-directory from the most recent one, as that folder contains the important files
 - After that, you have the compilied files ready for use in a server
 
