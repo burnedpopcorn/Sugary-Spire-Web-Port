@@ -6,6 +6,9 @@ Demo Site: https://www.autistici.org/burnedprojects/sugaryspire/SugarySpire.html
 NEW! GX.GAMES Mirror: https://gx.games/games/o96f0y/sugary-spire-web-port/
 > WOW! I used GX.GAMES like I was supposed to! Insane!
 
+## Update:
+Improved Music (all music is now Stereo instead of Mono)
+
 ![image](https://github.com/burnedpopcorn/Sugary-Spire-Web-Port/blob/main/banner.jpg)
 
 ## Downloads
