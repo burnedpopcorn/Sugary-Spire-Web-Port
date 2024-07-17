@@ -14,8 +14,6 @@ Source Code and Compiled Web Build can be Downloaded From the Releases Tab
 ### Current Issues
 There are Issues, such as:
 - Color Palettes don't display correctly or at all
-- Audio plays Only on the Right Speaker
-> ez fix, just some audio setting in gm
 
 ## For Compiling
 - Use GameMaker Studio Version 2023.4.0.84 to compile for Web
