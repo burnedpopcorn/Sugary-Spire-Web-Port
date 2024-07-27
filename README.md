@@ -1,5 +1,5 @@
-# Sugary Spire Web Port
-A Web Port of Sugary Spire (based off Playtest 3.2 Source Code)
+# Sugary Spire P Rank Web Port
+A Web Port of Sugary Spire (based off an Unfinished P Rank Build Source Code)
 
 Demo Site: https://www.autistici.org/burnedprojects/sugaryspire/SugarySpire.html
 
