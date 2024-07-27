@@ -10,11 +10,6 @@ NEW DISCORD SERVER! Check it out!
 
 [![Discord Invite Link](https://theprojects.x10.mx/discord.jpg)](https://discord.gg/BJSkBEPU)
 
-## Update:
-Improved Music (all music is now Stereo instead of Mono)
-
-![image](https://github.com/burnedpopcorn/Sugary-Spire-Web-Port/blob/main/banner.jpg)
-
 ## Downloads
 Source Code and Compiled Web Build can be Downloaded From the Releases Tab
 
@@ -38,7 +33,5 @@ There are Issues, such as:
 
 ## Thanks to
 - Tour de Pizza for Pizza Tower, which is the Inspiration for this game
-- @zyledev, for the Sugary Spire Decomp that made this possible [here](https://github.com/zyledev/Sugary-Spire-Decompilation-Archive)
-> Just look through the Playtest 3.2 branch
-
+- A person that wished to stay anonymous for the P rank Source Code
 - and literally anyone who helped make Sugary Spire in the first place
