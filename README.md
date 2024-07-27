@@ -1,10 +1,9 @@
 # Sugary Spire P Rank Web Port
 A Web Port of Sugary Spire (based off an Unfinished P Rank Build Source Code)
 
-Demo Site: https://www.autistici.org/burnedprojects/sugaryspire/SugarySpire.html
+Demo Site: https://www.autistici.org/burnedprojects/ss_p-rank/SugarySpire_PRANK.html
 
-GX.GAMES Mirror: https://gx.games/games/o96f0y/sugary-spire-web-port/
-> WOW! I used GX.GAMES like I was supposed to! Insane!
+GX.GAMES Mirror: https://gx.games/games/df549t/sugary-spire-p-rank-build-/
 
 NEW DISCORD SERVER! Check it out!
 
