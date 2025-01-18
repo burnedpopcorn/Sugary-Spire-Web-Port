@@ -1,14 +1,7 @@
 # Sugary Spire Web Port
 A Web Port of Sugary Spire (based off Playtest 3.2 Source Code)
 
-Demo Site: https://www.autistici.org/burnedprojects/sugaryspire/SugarySpire.html
-
-GX.GAMES Mirror: https://gx.games/games/o96f0y/sugary-spire-web-port/
-> WOW! I used GX.GAMES like I was supposed to! Insane!
-
-NEW DISCORD SERVER! Check it out!
-
-[![Discord Invite Link](https://theprojects.x10.mx/discord.jpg)](https://discord.gg/BJSkBEPU)
+Demo Site: https://www.autistici.org/burnedprojects/SugarySpirePlaytest3.2/
 
 ## Update:
 Improved Music (all music is now Stereo instead of Mono)
